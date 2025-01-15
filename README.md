@@ -1,0 +1,1 @@
+Proyecto sobre festival de musica electronica. En el se utilizaron herramientas como HTML, CSS, JS, NPM, Gulp, Sass. El sitio se encuentra bien estructurado y mediante la implementacion de "mixins" se adapta de forma correcta a distintos dispositivos (responsive)
